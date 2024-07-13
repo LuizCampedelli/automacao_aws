@@ -1,0 +1,1 @@
+# The related content is to use for a deploy using AWS CLI.
